@@ -1,0 +1,11 @@
+Django==5.1
+djangorestframework==3.15.2
+openpyxl==3.1.5
+python-dotenv==1.0.1
+uvicorn[standard]==0.21.1
+gunicorn==20.1.0
+mysqlclient==2.2.4
+mysql-connector==2.2.9
+openpyxl==3.1.5
+python-dotenv==1.0.1
+
